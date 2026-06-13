@@ -1,0 +1,18 @@
+{
+  "date": "2026-06-13",
+  "weather": {
+    "ok": true,
+    "city": "St James",
+    "country": "United Kingdom",
+    "temp_c": "14",
+    "feels_c": "13",
+    "condition": "Sunny",
+    "humidity": "82",
+    "wind_kph": "17"
+  },
+  "quote": {
+    "ok": true,
+    "quote": "Words are clothes that thoughts wear",
+    "author": "Samuel Butler"
+  }
+}

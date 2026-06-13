@@ -1,0 +1,1 @@
+## Pulse daily summary script uses only Python stdlib — no pip installs required.
