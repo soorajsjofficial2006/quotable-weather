@@ -2,17 +2,17 @@
   "date": "2026-06-13",
   "weather": {
     "ok": true,
-    "city": "St James",
+    "city": "Westminster",
     "country": "United Kingdom",
-    "temp_c": "14",
-    "feels_c": "13",
+    "temp_c": "16",
+    "feels_c": "16",
     "condition": "Sunny",
-    "humidity": "82",
-    "wind_kph": "17"
+    "humidity": "55",
+    "wind_kph": "18"
   },
   "quote": {
     "ok": true,
-    "quote": "Words are clothes that thoughts wear",
-    "author": "Samuel Butler"
+    "quote": "The more perfect a person is on the outside, the more demons they have on the inside.",
+    "author": "Sigmund Freud"
   }
 }
