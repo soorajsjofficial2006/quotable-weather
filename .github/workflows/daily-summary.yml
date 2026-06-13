@@ -1,0 +1,50 @@
+name: Pulse Daily Summary
+
+on:
+  schedule:
+    # Runs every day at 08:00 UTC
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+    inputs:
+      city:
+        description: "City to fetch weather for"
+        required: false
+        default: "London"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate daily summary
+        env:
+          PULSE_CITY: ${{ github.event.inputs.city || 'London' }}
+        run: python scripts/daily_summary.py
+
+      - name: Upload report artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pulse-daily-summary
+          path: reports/
+
+      - name: Commit report back to repo
+        run: |
+          git config user.name  "pulse-bot"
+          git config user.email "pulse-bot@users.noreply.github.com"
+          git add reports/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(pulse): daily summary $(date -u +%Y-%m-%d)"
+            git push
+          fi
