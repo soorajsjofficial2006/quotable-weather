@@ -1,18 +1,18 @@
 {
-  "date": "2026-06-13",
+  "date": "2026-06-14",
   "weather": {
     "ok": true,
-    "city": "Westminster",
+    "city": "Belgravia",
     "country": "United Kingdom",
-    "temp_c": "16",
-    "feels_c": "16",
-    "condition": "Sunny",
-    "humidity": "55",
-    "wind_kph": "18"
+    "temp_c": "17",
+    "feels_c": "17",
+    "condition": "Cloudy ",
+    "humidity": "52",
+    "wind_kph": "15"
   },
   "quote": {
     "ok": true,
-    "quote": "The more perfect a person is on the outside, the more demons they have on the inside.",
-    "author": "Sigmund Freud"
+    "quote": "The key to success is failure.",
+    "author": "Michael Jordan"
   }
 }
