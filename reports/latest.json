@@ -1,18 +1,18 @@
 {
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "weather": {
     "ok": true,
-    "city": "Belgravia",
+    "city": "London",
     "country": "United Kingdom",
-    "temp_c": "17",
-    "feels_c": "17",
-    "condition": "Cloudy ",
-    "humidity": "52",
-    "wind_kph": "15"
+    "temp_c": "21",
+    "feels_c": "21",
+    "condition": "Partly cloudy",
+    "humidity": "56",
+    "wind_kph": "10"
   },
   "quote": {
     "ok": true,
-    "quote": "The key to success is failure.",
-    "author": "Michael Jordan"
+    "quote": "If you truly expect something to be difficult, it will be.",
+    "author": "Peter A. Cohen"
   }
 }
