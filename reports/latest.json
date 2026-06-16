@@ -1,18 +1,18 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "weather": {
     "ok": true,
     "city": "London",
     "country": "United Kingdom",
-    "temp_c": "21",
-    "feels_c": "21",
+    "temp_c": "24",
+    "feels_c": "25",
     "condition": "Partly cloudy",
-    "humidity": "56",
-    "wind_kph": "10"
+    "humidity": "50",
+    "wind_kph": "13"
   },
   "quote": {
     "ok": true,
-    "quote": "If you truly expect something to be difficult, it will be.",
-    "author": "Peter A. Cohen"
+    "quote": "You cannot change your destination overnight but you can change your direction overnight.",
+    "author": "Jim Rohn"
   }
 }
