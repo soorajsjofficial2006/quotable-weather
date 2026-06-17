@@ -1,18 +1,18 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "24",
-    "feels_c": "25",
-    "condition": "Partly cloudy",
-    "humidity": "50",
-    "wind_kph": "13"
+    "temp_c": "21",
+    "feels_c": "21",
+    "condition": "Overcast ",
+    "humidity": "69",
+    "wind_kph": "16"
   },
   "quote": {
     "ok": true,
-    "quote": "You cannot change your destination overnight but you can change your direction overnight.",
-    "author": "Jim Rohn"
+    "quote": "You play the hand you're dealt. I think the game's worthwhile.",
+    "author": "Christopher Reeve"
   }
 }
