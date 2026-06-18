@@ -1,18 +1,18 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "weather": {
     "ok": true,
     "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "21",
-    "feels_c": "21",
-    "condition": "Overcast ",
-    "humidity": "69",
-    "wind_kph": "16"
+    "temp_c": "23",
+    "feels_c": "25",
+    "condition": "Partly cloudy",
+    "humidity": "65",
+    "wind_kph": "15"
   },
   "quote": {
     "ok": true,
-    "quote": "You play the hand you're dealt. I think the game's worthwhile.",
-    "author": "Christopher Reeve"
+    "quote": "You can only be afraid of what you think you know.",
+    "author": "Jiddu Krishnamurti"
   }
 }
