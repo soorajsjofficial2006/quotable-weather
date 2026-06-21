@@ -1,18 +1,18 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "weather": {
     "ok": true,
     "city": "London",
     "country": "United Kingdom",
-    "temp_c": "22",
-    "feels_c": "25",
-    "condition": "Partly cloudy",
-    "humidity": "73",
-    "wind_kph": "15"
+    "temp_c": "27",
+    "feels_c": "28",
+    "condition": "Partly Cloudy ",
+    "humidity": "51",
+    "wind_kph": "10"
   },
   "quote": {
     "ok": true,
-    "quote": "Life is and will ever remain an equation incapable of solution, but it contains certain known factors.",
-    "author": "Nikola Tesla"
+    "quote": "They who have conquered doubt and fear have conquered failure.",
+    "author": "James Allen"
   }
 }
