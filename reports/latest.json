@@ -1,18 +1,20 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "weather": {
     "ok": true,
-    "city": "Strand",
+    "city": "Spitalfields",
     "country": "United Kingdom",
-    "temp_c": "28",
+    "temp_c": "29",
     "feels_c": "29",
     "condition": "Sunny",
-    "humidity": "55",
-    "wind_kph": "18"
+    "humidity": "66",
+    "wind_kph": "11"
   },
   "quote": {
     "ok": true,
-    "quote": "A moving door hinge never corrodes. Flowing water never grows stagnant.",
-    "author": "Ming-Dao Deng"
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "fallback": true,
+    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
   }
 }
