@@ -1,20 +1,18 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "weather": {
     "ok": true,
-    "city": "Strand",
+    "city": "London",
     "country": "United Kingdom",
     "temp_c": "29",
-    "feels_c": "31",
+    "feels_c": "30",
     "condition": "Sunny",
-    "humidity": "62",
-    "wind_kph": "12"
+    "humidity": "55",
+    "wind_kph": "20"
   },
   "quote": {
     "ok": true,
-    "quote": "The only way to do great work is to love what you do.",
-    "author": "Steve Jobs",
-    "fallback": true,
-    "error": "<urlopen error timed out>"
+    "quote": "Give a girl the right shoes, and she can conquer the world.",
+    "author": "Bette Midler"
   }
 }
