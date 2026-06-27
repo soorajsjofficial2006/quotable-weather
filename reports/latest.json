@@ -1,18 +1,18 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "Nine Elms",
     "country": "United Kingdom",
-    "temp_c": "32",
-    "feels_c": "34",
+    "temp_c": "27",
+    "feels_c": "27",
     "condition": "Sunny",
-    "humidity": "46",
-    "wind_kph": "11"
+    "humidity": "48",
+    "wind_kph": "9"
   },
   "quote": {
     "ok": true,
-    "quote": "Freedom lies in being bold.",
-    "author": "Robert Frost"
+    "quote": "I wasn't brave, I just didn't have time to be scared.",
+    "author": "Amelia Earhart"
   }
 }
