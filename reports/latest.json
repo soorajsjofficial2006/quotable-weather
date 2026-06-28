@@ -1,18 +1,18 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "weather": {
     "ok": true,
     "city": "Nine Elms",
     "country": "United Kingdom",
-    "temp_c": "27",
-    "feels_c": "27",
-    "condition": "Sunny",
-    "humidity": "48",
-    "wind_kph": "9"
+    "temp_c": "22",
+    "feels_c": "25",
+    "condition": "Partly cloudy",
+    "humidity": "61",
+    "wind_kph": "19"
   },
   "quote": {
     "ok": true,
-    "quote": "I wasn't brave, I just didn't have time to be scared.",
-    "author": "Amelia Earhart"
+    "quote": "We turn not older with years but newer every day.",
+    "author": "Emily Dickinson"
   }
 }
