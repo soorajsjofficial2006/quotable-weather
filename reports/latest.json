@@ -1,18 +1,18 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "weather": {
     "ok": true,
-    "city": "St James",
+    "city": "London",
     "country": "United Kingdom",
-    "temp_c": "20",
-    "feels_c": "20",
-    "condition": "Sunny",
-    "humidity": "56",
-    "wind_kph": "12"
+    "temp_c": "19",
+    "feels_c": "19",
+    "condition": "Partly cloudy",
+    "humidity": "64",
+    "wind_kph": "13"
   },
   "quote": {
     "ok": true,
-    "quote": "Act the way you want to be and soon you'll be the way you act.",
-    "author": "Les Brown"
+    "quote": "Make failure your teacher, not your undertaker.",
+    "author": "Zig Ziglar"
   }
 }
