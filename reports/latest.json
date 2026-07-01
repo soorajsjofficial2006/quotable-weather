@@ -1,18 +1,18 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "weather": {
     "ok": true,
     "city": "London",
     "country": "United Kingdom",
-    "temp_c": "19",
-    "feels_c": "19",
+    "temp_c": "21",
+    "feels_c": "21",
     "condition": "Partly cloudy",
-    "humidity": "64",
-    "wind_kph": "13"
+    "humidity": "60",
+    "wind_kph": "12"
   },
   "quote": {
     "ok": true,
-    "quote": "Make failure your teacher, not your undertaker.",
-    "author": "Zig Ziglar"
+    "quote": "Creative endeavors are by their nature uncertain.",
+    "author": "Robert Greene"
   }
 }
