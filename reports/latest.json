@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "21",
-    "feels_c": "21",
+    "temp_c": "22",
+    "feels_c": "25",
     "condition": "Partly cloudy",
-    "humidity": "60",
-    "wind_kph": "12"
+    "humidity": "57",
+    "wind_kph": "20"
   },
   "quote": {
     "ok": true,
-    "quote": "Creative endeavors are by their nature uncertain.",
-    "author": "Robert Greene"
+    "quote": "Every strike brings me closer to the next home run.",
+    "author": "Babe Ruth"
   }
 }
