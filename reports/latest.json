@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "weather": {
     "ok": true,
-    "city": "Strand",
+    "city": "Spitalfields",
     "country": "United Kingdom",
-    "temp_c": "19",
-    "feels_c": "19",
+    "temp_c": "21",
+    "feels_c": "21",
     "condition": "Partly cloudy",
-    "humidity": "52",
-    "wind_kph": "11"
+    "humidity": "69",
+    "wind_kph": "16"
   },
   "quote": {
     "ok": true,
-    "quote": "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.",
-    "author": "Nikola Tesla"
+    "quote": "It's your road, and yours alone, others may walk it with you, but no one can walk it for you.",
+    "author": "Rumi"
   }
 }
