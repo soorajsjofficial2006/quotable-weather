@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-06",
   "weather": {
     "ok": true,
-    "city": "Spitalfields",
+    "city": "London",
     "country": "United Kingdom",
-    "temp_c": "21",
-    "feels_c": "21",
-    "condition": "Partly cloudy",
-    "humidity": "69",
-    "wind_kph": "16"
+    "temp_c": "28",
+    "feels_c": "28",
+    "condition": "Sunny",
+    "humidity": "40",
+    "wind_kph": "14"
   },
   "quote": {
     "ok": true,
-    "quote": "It's your road, and yours alone, others may walk it with you, but no one can walk it for you.",
-    "author": "Rumi"
+    "quote": "Life happens in the river, not the shore.",
+    "author": "Maxime Lagace"
   }
 }
