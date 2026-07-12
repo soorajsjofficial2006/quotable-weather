@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "weather": {
     "ok": true,
-    "city": "Westminster",
+    "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "25",
-    "feels_c": "26",
-    "condition": "Sunny",
-    "humidity": "57",
-    "wind_kph": "16"
+    "temp_c": "21",
+    "feels_c": "21",
+    "condition": "Partly cloudy",
+    "humidity": "69",
+    "wind_kph": "20"
   },
   "quote": {
     "ok": true,
-    "quote": "Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.",
-    "author": "James Cameron"
+    "quote": "A flower falls, even though we love it; and a weed grows, even though we do not love it.",
+    "author": "Dogen"
   }
 }
