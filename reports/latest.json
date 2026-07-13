@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "weather": {
     "ok": true,
-    "city": "Strand",
+    "city": "London",
     "country": "United Kingdom",
-    "temp_c": "21",
-    "feels_c": "21",
-    "condition": "Partly cloudy",
-    "humidity": "69",
-    "wind_kph": "20"
+    "temp_c": "24",
+    "feels_c": "25",
+    "condition": "Sunny",
+    "humidity": "50",
+    "wind_kph": "21"
   },
   "quote": {
     "ok": true,
-    "quote": "A flower falls, even though we love it; and a weed grows, even though we do not love it.",
-    "author": "Dogen"
+    "quote": "For every minute you are angry you lose sixty seconds of happiness.",
+    "author": "Ralph Waldo Emerson"
   }
 }
