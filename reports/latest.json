@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "24",
-    "feels_c": "25",
-    "condition": "Sunny",
-    "humidity": "50",
-    "wind_kph": "21"
+    "temp_c": "21",
+    "feels_c": "21",
+    "condition": "Partly cloudy",
+    "humidity": "69",
+    "wind_kph": "17"
   },
   "quote": {
     "ok": true,
-    "quote": "For every minute you are angry you lose sixty seconds of happiness.",
-    "author": "Ralph Waldo Emerson"
+    "quote": "A hut full of laughter is richer than a palace full of sadness.",
+    "author": "Zen Proverb"
   }
 }
