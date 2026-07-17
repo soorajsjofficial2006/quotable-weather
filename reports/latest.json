@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "weather": {
     "ok": true,
-    "city": "Soho",
+    "city": "London",
     "country": "United Kingdom",
-    "temp_c": "21",
-    "feels_c": "21",
+    "temp_c": "20",
+    "feels_c": "20",
     "condition": "Sunny",
     "humidity": "64",
-    "wind_kph": "14"
+    "wind_kph": "11"
   },
   "quote": {
     "ok": true,
-    "quote": "TEAMWORK: the fuel that allows common people attain uncommon results.",
-    "author": "Andrew Carnegie"
+    "quote": "If you have only one smile in you give it to the people you love.",
+    "author": "Maya Angelou"
   }
 }
