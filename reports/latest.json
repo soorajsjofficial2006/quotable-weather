@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "St James",
     "country": "United Kingdom",
-    "temp_c": "20",
-    "feels_c": "20",
-    "condition": "Sunny",
-    "humidity": "64",
-    "wind_kph": "11"
+    "temp_c": "17",
+    "feels_c": "17",
+    "condition": "Partly cloudy",
+    "humidity": "68",
+    "wind_kph": "12"
   },
   "quote": {
     "ok": true,
-    "quote": "If you have only one smile in you give it to the people you love.",
-    "author": "Maya Angelou"
+    "quote": "It doesn't matter how much you want. What really matters is how much you want it.",
+    "author": "Ralph Marston"
   }
 }
