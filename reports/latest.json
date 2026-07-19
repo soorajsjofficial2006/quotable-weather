@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "weather": {
     "ok": true,
-    "city": "St James",
+    "city": "Nine Elms",
     "country": "United Kingdom",
     "temp_c": "17",
     "feels_c": "17",
     "condition": "Partly cloudy",
-    "humidity": "68",
-    "wind_kph": "12"
+    "humidity": "55",
+    "wind_kph": "18"
   },
   "quote": {
     "ok": true,
-    "quote": "It doesn't matter how much you want. What really matters is how much you want it.",
-    "author": "Ralph Marston"
+    "quote": "It is the greatest of all mistakes to do nothing because you can only do little; do something.",
+    "author": "Sydney Smith"
   }
 }
