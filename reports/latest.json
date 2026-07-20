@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "weather": {
     "ok": true,
-    "city": "Nine Elms",
+    "city": "Newington",
     "country": "United Kingdom",
-    "temp_c": "17",
-    "feels_c": "17",
-    "condition": "Partly cloudy",
-    "humidity": "55",
-    "wind_kph": "18"
+    "temp_c": "19",
+    "feels_c": "19",
+    "condition": "Sunny",
+    "humidity": "49",
+    "wind_kph": "10"
   },
   "quote": {
     "ok": true,
-    "quote": "It is the greatest of all mistakes to do nothing because you can only do little; do something.",
-    "author": "Sydney Smith"
+    "quote": "All that we see or seem is but a dream within a dream.",
+    "author": "Edgar Allan Poe"
   }
 }
