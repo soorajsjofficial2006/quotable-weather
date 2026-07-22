@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "Spitalfields",
     "country": "United Kingdom",
-    "temp_c": "19",
-    "feels_c": "19",
-    "condition": "Partly cloudy",
+    "temp_c": "20",
+    "feels_c": "20",
+    "condition": "Cloudy ",
     "humidity": "64",
-    "wind_kph": "13"
+    "wind_kph": "4"
   },
   "quote": {
     "ok": true,
-    "quote": "What you resist, persists.",
-    "author": "Carl Jung"
+    "quote": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
+    "author": "Winston Churchill"
   }
 }
