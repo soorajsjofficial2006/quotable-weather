@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "weather": {
     "ok": true,
-    "city": "Spitalfields",
+    "city": "London",
     "country": "United Kingdom",
-    "temp_c": "20",
-    "feels_c": "20",
-    "condition": "Cloudy ",
-    "humidity": "64",
+    "temp_c": "21",
+    "feels_c": "21",
+    "condition": "Partly cloudy",
+    "humidity": "60",
     "wind_kph": "4"
   },
   "quote": {
     "ok": true,
-    "quote": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
-    "author": "Winston Churchill"
+    "quote": "Don\u00b4t hesitate or allow yourself to make excuses. Just get out and do it.",
+    "author": "Christopher McCandless"
   }
 }
