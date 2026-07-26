@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "weather": {
     "ok": true,
     "city": "London",
     "country": "United Kingdom",
-    "temp_c": "20",
-    "feels_c": "20",
-    "condition": "Sunny",
-    "humidity": "56",
-    "wind_kph": "11"
+    "temp_c": "21",
+    "feels_c": "14",
+    "condition": "Light rain shower",
+    "humidity": "71",
+    "wind_kph": "18"
   },
   "quote": {
     "ok": true,
-    "quote": "Everything eaten is killed. Every meal is a sacrifice.",
-    "author": "Adi Da Samraj"
+    "quote": "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.",
+    "author": "Thich Nhat Hanh"
   }
 }
