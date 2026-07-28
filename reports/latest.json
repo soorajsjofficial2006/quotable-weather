@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "weather": {
     "ok": true,
-    "city": "Belgravia",
+    "city": "Bermondsey",
     "country": "United Kingdom",
-    "temp_c": "22",
-    "feels_c": "15",
-    "condition": "Sunny",
-    "humidity": "43",
-    "wind_kph": "15"
+    "temp_c": "21",
+    "feels_c": "21",
+    "condition": "Cloudy",
+    "humidity": "73",
+    "wind_kph": "12"
   },
   "quote": {
     "ok": true,
-    "quote": "Stop acting so small. You are the universe in ecstatic motion.",
-    "author": "Rumi"
+    "quote": "Not everything that weighs you down is yours to carry.",
+    "author": "Unknown"
   }
 }
