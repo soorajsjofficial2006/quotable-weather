@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "weather": {
     "ok": true,
-    "city": "Bermondsey",
+    "city": "London",
     "country": "United Kingdom",
-    "temp_c": "21",
-    "feels_c": "21",
-    "condition": "Cloudy",
-    "humidity": "73",
-    "wind_kph": "12"
+    "temp_c": "30",
+    "feels_c": "24",
+    "condition": "Sunny",
+    "humidity": "30",
+    "wind_kph": "7"
   },
   "quote": {
     "ok": true,
-    "quote": "Not everything that weighs you down is yours to carry.",
-    "author": "Unknown"
+    "quote": "Do not stop thinking of life as an adventure.",
+    "author": "Eleanor Roosevelt"
   }
 }
