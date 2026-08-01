@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "Spitalfields",
     "country": "United Kingdom",
-    "temp_c": "23",
-    "feels_c": "19",
+    "temp_c": "19",
+    "feels_c": "17",
     "condition": "Sunny",
-    "humidity": "30",
-    "wind_kph": "11"
+    "humidity": "42",
+    "wind_kph": "9"
   },
   "quote": {
     "ok": true,
-    "quote": "When you are tempted to give up, your breakthrough is probably just around the corner.",
-    "author": "Joyce Meyer"
+    "quote": "The cost of leadership is self-interest.",
+    "author": "Simon Sinek"
   }
 }
