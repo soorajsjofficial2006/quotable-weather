@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "weather": {
     "ok": true,
-    "city": "Spitalfields",
+    "city": "Brompton",
     "country": "United Kingdom",
-    "temp_c": "19",
-    "feels_c": "17",
+    "temp_c": "20",
+    "feels_c": "20",
     "condition": "Sunny",
-    "humidity": "42",
-    "wind_kph": "9"
+    "humidity": "53",
+    "wind_kph": "8"
   },
   "quote": {
     "ok": true,
-    "quote": "The cost of leadership is self-interest.",
-    "author": "Simon Sinek"
+    "quote": "We have to live life with a sense of urgency so not a minute is wasted.",
+    "author": "Les Brown"
   }
 }
