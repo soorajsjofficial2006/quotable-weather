@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "weather": {
     "ok": true,
-    "city": "Brompton",
+    "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "20",
-    "feels_c": "20",
+    "temp_c": "27",
+    "feels_c": "26",
     "condition": "Sunny",
-    "humidity": "53",
-    "wind_kph": "8"
+    "humidity": "42",
+    "wind_kph": "7"
   },
   "quote": {
     "ok": true,
-    "quote": "We have to live life with a sense of urgency so not a minute is wasted.",
-    "author": "Les Brown"
+    "quote": "No problem can be solved from the same level of consciousness that created it.",
+    "author": "Albert Einstein"
   }
 }
