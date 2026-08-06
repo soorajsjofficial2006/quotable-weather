@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "weather": {
     "ok": true,
-    "city": "Belgravia",
+    "city": "Bermondsey",
     "country": "United Kingdom",
-    "temp_c": "20",
-    "feels_c": "17",
-    "condition": "Patchy rain nearby",
-    "humidity": "63",
-    "wind_kph": "18"
+    "temp_c": "18",
+    "feels_c": "14",
+    "condition": "Sunny",
+    "humidity": "45",
+    "wind_kph": "15"
   },
   "quote": {
     "ok": true,
-    "quote": "Each path to knowledge involves different rules and these rules are not interchangeable.",
-    "author": "Barack Obama"
+    "quote": "A man that flies from his fear may find that he has only taken a short cut to meet it.",
+    "author": "J.R.R. Tolkien"
   }
 }
