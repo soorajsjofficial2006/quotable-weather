@@ -1,18 +1,20 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "weather": {
     "ok": true,
-    "city": "Bermondsey",
+    "city": "St James",
     "country": "United Kingdom",
-    "temp_c": "18",
-    "feels_c": "14",
+    "temp_c": "19",
+    "feels_c": "19",
     "condition": "Sunny",
-    "humidity": "45",
-    "wind_kph": "15"
+    "humidity": "54",
+    "wind_kph": "4"
   },
   "quote": {
     "ok": true,
-    "quote": "A man that flies from his fear may find that he has only taken a short cut to meet it.",
-    "author": "J.R.R. Tolkien"
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "fallback": true,
+    "error": "<urlopen error timed out>"
   }
 }
