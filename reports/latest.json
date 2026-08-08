@@ -1,20 +1,18 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "weather": {
     "ok": true,
-    "city": "St James",
+    "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "19",
-    "feels_c": "19",
+    "temp_c": "21",
+    "feels_c": "18",
     "condition": "Sunny",
-    "humidity": "54",
-    "wind_kph": "4"
+    "humidity": "36",
+    "wind_kph": "7"
   },
   "quote": {
     "ok": true,
-    "quote": "The only way to do great work is to love what you do.",
-    "author": "Steve Jobs",
-    "fallback": true,
-    "error": "<urlopen error timed out>"
+    "quote": "Make your stand today. On this spot. On this day.",
+    "author": "Ming-Dao Deng"
   }
 }
