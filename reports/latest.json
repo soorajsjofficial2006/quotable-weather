@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "weather": {
     "ok": true,
-    "city": "Strand",
+    "city": "London",
     "country": "United Kingdom",
-    "temp_c": "21",
-    "feels_c": "18",
-    "condition": "Sunny",
-    "humidity": "36",
-    "wind_kph": "7"
+    "temp_c": "22",
+    "feels_c": "20",
+    "condition": "Partly Cloudy ",
+    "humidity": "31",
+    "wind_kph": "5"
   },
   "quote": {
     "ok": true,
-    "quote": "Make your stand today. On this spot. On this day.",
-    "author": "Ming-Dao Deng"
+    "quote": "A leader is one who knows the way, goes the way, and shows the way.",
+    "author": "Unknown"
   }
 }
