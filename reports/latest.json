@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "22",
+    "temp_c": "21",
     "feels_c": "20",
-    "condition": "Partly Cloudy ",
-    "humidity": "31",
-    "wind_kph": "5"
+    "condition": "Sunny",
+    "humidity": "55",
+    "wind_kph": "9"
   },
   "quote": {
     "ok": true,
-    "quote": "A leader is one who knows the way, goes the way, and shows the way.",
-    "author": "Unknown"
+    "quote": "Not all readers are leaders, but all leaders are readers.",
+    "author": "Harry S. Truman"
   }
 }
