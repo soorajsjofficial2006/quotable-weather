@@ -1,18 +1,20 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "21",
-    "feels_c": "18",
+    "temp_c": "20",
+    "feels_c": "20",
     "condition": "Sunny",
-    "humidity": "52",
-    "wind_kph": "15"
+    "humidity": "68",
+    "wind_kph": "11"
   },
   "quote": {
     "ok": true,
-    "quote": "Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.",
-    "author": "Lao Tzu"
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "fallback": true,
+    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
   }
 }
