@@ -1,20 +1,18 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "weather": {
     "ok": true,
     "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "20",
-    "feels_c": "20",
+    "temp_c": "26",
+    "feels_c": "26",
     "condition": "Sunny",
-    "humidity": "68",
-    "wind_kph": "11"
+    "humidity": "39",
+    "wind_kph": "5"
   },
   "quote": {
     "ok": true,
-    "quote": "The only way to do great work is to love what you do.",
-    "author": "Steve Jobs",
-    "fallback": true,
-    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    "quote": "Winners don't Quit. That's why they Win.",
+    "author": "Unknown"
   }
 }
