@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "St James",
     "country": "United Kingdom",
-    "temp_c": "26",
-    "feels_c": "26",
-    "condition": "Sunny",
-    "humidity": "51",
-    "wind_kph": "9"
+    "temp_c": "22",
+    "feels_c": "20",
+    "condition": "Partly Cloudy ",
+    "humidity": "61",
+    "wind_kph": "15"
   },
   "quote": {
     "ok": true,
-    "quote": "We meet ourselves time and again in a thousand disguises on the path of life.",
-    "author": "Carl Jung"
+    "quote": "Misfortune shows those who are not really friends.",
+    "author": "Aristotle"
   }
 }
