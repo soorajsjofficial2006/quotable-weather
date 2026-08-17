@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "weather": {
     "ok": true,
-    "city": "St James",
+    "city": "London",
     "country": "United Kingdom",
-    "temp_c": "18",
-    "feels_c": "17",
-    "condition": "Partly Cloudy ",
-    "humidity": "62",
-    "wind_kph": "6"
+    "temp_c": "-2",
+    "feels_c": "-11",
+    "condition": "Blizzard",
+    "humidity": "66",
+    "wind_kph": "55"
   },
   "quote": {
     "ok": true,
-    "quote": "The quality of your commitments will determine the course of your life.",
-    "author": "Ralph Marston"
+    "quote": "Confidence is what you have before you understand the problem.",
+    "author": "Woody Allen"
   }
 }
