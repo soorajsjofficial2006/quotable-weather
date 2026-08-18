@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "-2",
-    "feels_c": "-11",
-    "condition": "Blizzard",
-    "humidity": "66",
-    "wind_kph": "55"
+    "temp_c": "20",
+    "feels_c": "20",
+    "condition": "Patchy rain nearby",
+    "humidity": "74",
+    "wind_kph": "15"
   },
   "quote": {
     "ok": true,
-    "quote": "Confidence is what you have before you understand the problem.",
-    "author": "Woody Allen"
+    "quote": "Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.",
+    "author": "Andrew Carnegie"
   }
 }
