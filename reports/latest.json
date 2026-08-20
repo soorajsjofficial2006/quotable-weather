@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "weather": {
     "ok": true,
-    "city": "Newington",
+    "city": "Spitalfields",
     "country": "United Kingdom",
-    "temp_c": "18",
-    "feels_c": "16",
-    "condition": "Cloudy ",
-    "humidity": "70",
+    "temp_c": "16",
+    "feels_c": "14",
+    "condition": "Partly Cloudy ",
+    "humidity": "73",
     "wind_kph": "15"
   },
   "quote": {
     "ok": true,
-    "quote": "I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.",
-    "author": "Virginia Woolf"
+    "quote": "Stop being a prisoner of your past. Become the architect of your future.",
+    "author": "Robin Sharma"
   }
 }
