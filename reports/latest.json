@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "weather": {
     "ok": true,
     "city": "Spitalfields",
     "country": "United Kingdom",
-    "temp_c": "16",
-    "feels_c": "14",
-    "condition": "Partly Cloudy ",
-    "humidity": "73",
-    "wind_kph": "15"
+    "temp_c": "14",
+    "feels_c": "11",
+    "condition": "Overcast ",
+    "humidity": "75",
+    "wind_kph": "12"
   },
   "quote": {
     "ok": true,
-    "quote": "Stop being a prisoner of your past. Become the architect of your future.",
-    "author": "Robin Sharma"
+    "quote": "To earn more you must learn more.",
+    "author": "Brian Tracy"
   }
 }
