@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "14",
-    "feels_c": "11",
+    "temp_c": "16",
+    "feels_c": "15",
     "condition": "Sunny",
-    "humidity": "60",
-    "wind_kph": "13"
+    "humidity": "59",
+    "wind_kph": "4"
   },
   "quote": {
     "ok": true,
-    "quote": "Wisdom is the oneness of mind that guides and permeates all things.",
-    "author": "Heraclitus"
+    "quote": "From a certain point onward there is no longer any turning back. That is the point that must be reached.",
+    "author": "Franz Kafka"
   }
 }
