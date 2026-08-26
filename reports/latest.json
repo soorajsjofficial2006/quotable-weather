@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "weather": {
     "ok": true,
-    "city": "Westminster",
+    "city": "Spitalfields",
     "country": "United Kingdom",
-    "temp_c": "17",
-    "feels_c": "15",
-    "condition": "Overcast ",
-    "humidity": "72",
-    "wind_kph": "17"
+    "temp_c": "19",
+    "feels_c": "19",
+    "condition": "Patchy rain nearby",
+    "humidity": "82",
+    "wind_kph": "10"
   },
   "quote": {
     "ok": true,
-    "quote": "Stop acting so small. You are the universe in ecstatic motion.",
-    "author": "Rumi"
+    "quote": "The biggest room in the world is the room for improvement.",
+    "author": "Unknown"
   }
 }
