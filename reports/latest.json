@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "weather": {
     "ok": true,
-    "city": "Spitalfields",
+    "city": "London",
     "country": "United Kingdom",
-    "temp_c": "19",
-    "feels_c": "19",
-    "condition": "Patchy rain nearby",
-    "humidity": "82",
-    "wind_kph": "10"
+    "temp_c": "21",
+    "feels_c": "23",
+    "condition": "Light rain shower",
+    "humidity": "75",
+    "wind_kph": "6"
   },
   "quote": {
     "ok": true,
-    "quote": "The biggest room in the world is the room for improvement.",
-    "author": "Unknown"
+    "quote": "However difficult life may seem, there is always something you can do and succeed at.",
+    "author": "Stephen Hawking"
   }
 }
