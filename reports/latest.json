@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "weather": {
     "ok": true,
     "city": "London",
     "country": "United Kingdom",
-    "temp_c": "21",
-    "feels_c": "23",
-    "condition": "Light rain shower",
-    "humidity": "75",
-    "wind_kph": "6"
+    "temp_c": "20",
+    "feels_c": "17",
+    "condition": "Partly Cloudy ",
+    "humidity": "58",
+    "wind_kph": "22"
   },
   "quote": {
     "ok": true,
-    "quote": "However difficult life may seem, there is always something you can do and succeed at.",
-    "author": "Stephen Hawking"
+    "quote": "We have to live life with a sense of urgency so not a minute is wasted.",
+    "author": "Les Brown"
   }
 }
