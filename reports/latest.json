@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "weather": {
     "ok": true,
-    "city": "Strand",
+    "city": "London",
     "country": "United Kingdom",
-    "temp_c": "21",
+    "temp_c": "20",
     "feels_c": "18",
     "condition": "Patchy rain nearby",
-    "humidity": "53",
-    "wind_kph": "20"
+    "humidity": "48",
+    "wind_kph": "12"
   },
   "quote": {
     "ok": true,
-    "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.",
-    "author": "Eleanor Roosevelt"
+    "quote": "The quieter you become, the more you are able to hear.",
+    "author": "Rumi"
   }
 }
