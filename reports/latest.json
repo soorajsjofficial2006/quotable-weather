@@ -1,18 +1,18 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "Belgravia",
     "country": "United Kingdom",
-    "temp_c": "20",
-    "feels_c": "18",
-    "condition": "Patchy rain nearby",
-    "humidity": "48",
-    "wind_kph": "12"
+    "temp_c": "22",
+    "feels_c": "19",
+    "condition": "Cloudy ",
+    "humidity": "44",
+    "wind_kph": "15"
   },
   "quote": {
     "ok": true,
-    "quote": "The quieter you become, the more you are able to hear.",
-    "author": "Rumi"
+    "quote": "Success is stumbling from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill"
   }
 }
