@@ -1,18 +1,18 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "weather": {
     "ok": true,
-    "city": "Soho",
+    "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "22",
-    "feels_c": "18",
-    "condition": "Overcast ",
+    "temp_c": "18",
+    "feels_c": "15",
+    "condition": "Cloudy ",
     "humidity": "50",
-    "wind_kph": "22"
+    "wind_kph": "12"
   },
   "quote": {
     "ok": true,
-    "quote": "The only place success comes before work is in the dictionary.",
-    "author": "Vince Lombardi"
+    "quote": "Best be yourself, imperial, plain, and true.",
+    "author": "Robert Browning"
   }
 }
