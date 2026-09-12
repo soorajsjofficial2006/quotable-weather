@@ -1,18 +1,18 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "22",
-    "feels_c": "21",
-    "condition": "Cloudy ",
-    "humidity": "50",
-    "wind_kph": "11"
+    "temp_c": "20",
+    "feels_c": "16",
+    "condition": "Sunny",
+    "humidity": "45",
+    "wind_kph": "17"
   },
   "quote": {
     "ok": true,
-    "quote": "I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.",
-    "author": "Elon Musk"
+    "quote": "Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.",
+    "author": "Ralph Marston"
   }
 }
