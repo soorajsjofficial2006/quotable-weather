@@ -1,18 +1,18 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "weather": {
     "ok": true,
     "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "18",
-    "feels_c": "15",
-    "condition": "Patchy rain nearby",
-    "humidity": "67",
-    "wind_kph": "16"
+    "temp_c": "17",
+    "feels_c": "14",
+    "condition": "Sunny",
+    "humidity": "49",
+    "wind_kph": "17"
   },
   "quote": {
     "ok": true,
-    "quote": "If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you.",
-    "author": "Paramahansa Yogananda"
+    "quote": "The four P's to success are pressure, persistence, perseverance, and prayer.",
+    "author": "Steve Harvey"
   }
 }
