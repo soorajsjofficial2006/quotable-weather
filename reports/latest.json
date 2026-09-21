@@ -1,20 +1,18 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "weather": {
     "ok": true,
     "city": "London",
     "country": "United Kingdom",
-    "temp_c": "17",
-    "feels_c": "13",
-    "condition": "Overcast ",
-    "humidity": "45",
-    "wind_kph": "16"
+    "temp_c": "22",
+    "feels_c": "19",
+    "condition": "Sunny",
+    "humidity": "33",
+    "wind_kph": "8"
   },
   "quote": {
     "ok": true,
-    "quote": "The only way to do great work is to love what you do.",
-    "author": "Steve Jobs",
-    "fallback": true,
-    "error": "<urlopen error timed out>"
+    "quote": "The future belongs to those who learn more skills and combine them in creative ways.",
+    "author": "Robert Greene"
   }
 }
