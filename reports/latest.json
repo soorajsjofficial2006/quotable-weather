@@ -1,18 +1,18 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "weather": {
     "ok": true,
-    "city": "Strand",
+    "city": "Newington",
     "country": "United Kingdom",
-    "temp_c": "18",
-    "feels_c": "16",
+    "temp_c": "25",
+    "feels_c": "23",
     "condition": "Overcast ",
-    "humidity": "51",
-    "wind_kph": "13"
+    "humidity": "52",
+    "wind_kph": "15"
   },
   "quote": {
     "ok": true,
-    "quote": "You'll get more from being a peacemaker than a warrior.",
-    "author": "Arnold Schwarzenegger"
+    "quote": "Do the hard jobs first. The easy jobs will take care of themselves.",
+    "author": "Dale Carnegie"
   }
 }
