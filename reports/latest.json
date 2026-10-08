@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "weather": {
     "ok": true,
-    "city": "Newington",
+    "city": "Highgate",
     "country": "United Kingdom",
-    "temp_c": "13",
+    "temp_c": "15",
     "feels_c": "10",
-    "condition": "Patchy rain nearby",
-    "humidity": "87",
-    "wind_kph": "18"
+    "condition": "Cloudy ",
+    "humidity": "36",
+    "wind_kph": "15"
   },
   "quote": {
     "ok": true,
-    "quote": "Only those who dare to fail greatly can ever achieve greatly.",
-    "author": "Robert F. Kennedy"
+    "quote": "For changes to be of any true value, they've got to be lasting and consistent.",
+    "author": "Tony Robbins"
   }
 }
