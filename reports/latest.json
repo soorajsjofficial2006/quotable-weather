@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "weather": {
     "ok": true,
-    "city": "Highgate",
+    "city": "London",
     "country": "United Kingdom",
-    "temp_c": "15",
-    "feels_c": "10",
-    "condition": "Cloudy ",
-    "humidity": "36",
-    "wind_kph": "15"
+    "temp_c": "17",
+    "feels_c": "14",
+    "condition": "Light drizzle",
+    "humidity": "81",
+    "wind_kph": "24"
   },
   "quote": {
     "ok": true,
-    "quote": "For changes to be of any true value, they've got to be lasting and consistent.",
-    "author": "Tony Robbins"
+    "quote": "Stop wasting time looking at someone else's reality while doing nothing about yours.",
+    "author": "Steve Harvey"
   }
 }
