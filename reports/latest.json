@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "Camberwell",
     "country": "United Kingdom",
-    "temp_c": "17",
-    "feels_c": "14",
-    "condition": "Light drizzle",
-    "humidity": "81",
-    "wind_kph": "24"
+    "temp_c": "14",
+    "feels_c": "9",
+    "condition": "Overcast ",
+    "humidity": "47",
+    "wind_kph": "18"
   },
   "quote": {
     "ok": true,
-    "quote": "Stop wasting time looking at someone else's reality while doing nothing about yours.",
-    "author": "Steve Harvey"
+    "quote": "The big thing is to make a winning effort. I'm not obsessed with wins.",
+    "author": "Morgan Wootten"
   }
 }
