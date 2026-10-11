@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "weather": {
     "ok": true,
-    "city": "Camberwell",
+    "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "14",
-    "feels_c": "9",
+    "temp_c": "15",
+    "feels_c": "12",
     "condition": "Overcast ",
-    "humidity": "47",
-    "wind_kph": "18"
+    "humidity": "48",
+    "wind_kph": "9"
   },
   "quote": {
     "ok": true,
-    "quote": "The big thing is to make a winning effort. I'm not obsessed with wins.",
-    "author": "Morgan Wootten"
+    "quote": "Take care of your cents: dollars will take care of themselves.",
+    "author": "Thomas Jefferson"
   }
 }
