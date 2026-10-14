@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "weather": {
     "ok": true,
-    "city": "Clerkenwell",
+    "city": "Paddington",
     "country": "United Kingdom",
-    "temp_c": "20",
+    "temp_c": "19",
     "feels_c": "15",
     "condition": "Sunny",
-    "humidity": "38",
-    "wind_kph": "21"
+    "humidity": "49",
+    "wind_kph": "17"
   },
   "quote": {
     "ok": true,
-    "quote": "If I love myself I love you. If I love you I love myself.",
-    "author": "Rumi"
+    "quote": "Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.",
+    "author": "Charles Dickens"
   }
 }
