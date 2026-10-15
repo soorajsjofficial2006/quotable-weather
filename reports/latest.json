@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "weather": {
     "ok": true,
-    "city": "Paddington",
+    "city": "Lisson Grove",
     "country": "United Kingdom",
-    "temp_c": "19",
-    "feels_c": "15",
-    "condition": "Sunny",
-    "humidity": "49",
-    "wind_kph": "17"
+    "temp_c": "20",
+    "feels_c": "18",
+    "condition": "Patchy rain nearby",
+    "humidity": "67",
+    "wind_kph": "19"
   },
   "quote": {
     "ok": true,
-    "quote": "Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.",
-    "author": "Charles Dickens"
+    "quote": "Life is what you make it. Always has been, always will be.",
+    "author": "Eleanor Roosevelt"
   }
 }
