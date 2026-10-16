@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "weather": {
     "ok": true,
-    "city": "Lisson Grove",
+    "city": "Kentish Town",
     "country": "United Kingdom",
-    "temp_c": "20",
-    "feels_c": "18",
-    "condition": "Patchy rain nearby",
-    "humidity": "67",
-    "wind_kph": "19"
+    "temp_c": "15",
+    "feels_c": "11",
+    "condition": "Overcast ",
+    "humidity": "54",
+    "wind_kph": "18"
   },
   "quote": {
     "ok": true,
-    "quote": "Life is what you make it. Always has been, always will be.",
-    "author": "Eleanor Roosevelt"
+    "quote": "It does not do to dwell on dreams and forget to live, remember that.",
+    "author": "Albus Dumbledore"
   }
 }
