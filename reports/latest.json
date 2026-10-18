@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "weather": {
     "ok": true,
-    "city": "Soho",
+    "city": "London",
     "country": "United Kingdom",
-    "temp_c": "12",
-    "feels_c": "8",
-    "condition": "Sunny",
-    "humidity": "62",
-    "wind_kph": "18"
+    "temp_c": "15",
+    "feels_c": "9",
+    "condition": "Patchy rain nearby",
+    "humidity": "44",
+    "wind_kph": "22"
   },
   "quote": {
     "ok": true,
-    "quote": "A good system shortens the road to the goal.",
-    "author": "Orison Swett Marden"
+    "quote": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
+    "author": "Abraham Lincoln"
   }
 }
