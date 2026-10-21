@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "weather": {
     "ok": true,
-    "city": "Strand",
+    "city": "London",
     "country": "United Kingdom",
-    "temp_c": "12",
-    "feels_c": "10",
-    "condition": "Overcast ",
-    "humidity": "79",
-    "wind_kph": "14"
+    "temp_c": "9",
+    "feels_c": "5",
+    "condition": "Light drizzle",
+    "humidity": "82",
+    "wind_kph": "32"
   },
   "quote": {
     "ok": true,
-    "quote": "If you need inspiration, don't do it.",
-    "author": "Elon Musk"
+    "quote": "Remember, today is the tomorrow you worried about yesterday.",
+    "author": "Dale Carnegie"
   }
 }
