@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "St James",
     "country": "United Kingdom",
-    "temp_c": "9",
-    "feels_c": "5",
-    "condition": "Light drizzle",
-    "humidity": "82",
-    "wind_kph": "32"
+    "temp_c": "13",
+    "feels_c": "9",
+    "condition": "Patchy rain nearby",
+    "humidity": "58",
+    "wind_kph": "18"
   },
   "quote": {
     "ok": true,
-    "quote": "Remember, today is the tomorrow you worried about yesterday.",
-    "author": "Dale Carnegie"
+    "quote": "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.",
+    "author": "Thich Nhat Hanh"
   }
 }
