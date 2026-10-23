@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "weather": {
     "ok": true,
-    "city": "St James",
+    "city": "Spitalfields",
     "country": "United Kingdom",
     "temp_c": "13",
-    "feels_c": "9",
-    "condition": "Patchy rain nearby",
-    "humidity": "58",
-    "wind_kph": "18"
+    "feels_c": "12",
+    "condition": "Moderate rain",
+    "humidity": "88",
+    "wind_kph": "17"
   },
   "quote": {
     "ok": true,
-    "quote": "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.",
-    "author": "Thich Nhat Hanh"
+    "quote": "Even the smallest person can change the course of the future.",
+    "author": "J.R.R. Tolkien"
   }
 }
