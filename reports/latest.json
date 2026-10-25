@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "weather": {
     "ok": true,
-    "city": "Strand",
+    "city": "St James",
     "country": "United Kingdom",
-    "temp_c": "11",
-    "feels_c": "8",
-    "condition": "Light drizzle",
-    "humidity": "83",
-    "wind_kph": "18"
+    "temp_c": "13",
+    "feels_c": "10",
+    "condition": "Partly cloudy",
+    "humidity": "54",
+    "wind_kph": "30"
   },
   "quote": {
     "ok": true,
-    "quote": "What's right is what's left if you do everything else wrong.",
-    "author": "Robin Williams"
+    "quote": "Only those who will risk going too far can possibly find out how far one can go.",
+    "author": "T.S. Eliot"
   }
 }
