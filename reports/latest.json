@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "weather": {
     "ok": true,
-    "city": "St James",
+    "city": "Spitalfields",
     "country": "United Kingdom",
     "temp_c": "13",
     "feels_c": "10",
-    "condition": "Partly cloudy",
-    "humidity": "54",
-    "wind_kph": "30"
+    "condition": "Light drizzle",
+    "humidity": "93",
+    "wind_kph": "21"
   },
   "quote": {
     "ok": true,
-    "quote": "Only those who will risk going too far can possibly find out how far one can go.",
-    "author": "T.S. Eliot"
+    "quote": "It is the greatest of all mistakes to do nothing because you can only do little; do something.",
+    "author": "Sydney Smith"
   }
 }
