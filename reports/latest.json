@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-03",
   "weather": {
     "ok": true,
-    "city": "Strand",
+    "city": "Kennington",
     "country": "United Kingdom",
-    "temp_c": "14",
-    "feels_c": "12",
-    "condition": "Overcast ",
-    "humidity": "66",
-    "wind_kph": "8"
+    "temp_c": "12",
+    "feels_c": "9",
+    "condition": "Patchy rain nearby",
+    "humidity": "69",
+    "wind_kph": "17"
   },
   "quote": {
     "ok": true,
-    "quote": "Do not regret the past. Look to the future.",
-    "author": "Soyen Shaku"
+    "quote": "If you do not get the chills when you set your goal you're not setting big enough goals.",
+    "author": "Bob Proctor"
   }
 }
