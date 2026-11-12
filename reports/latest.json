@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "weather": {
     "ok": true,
     "city": "London",
     "country": "United Kingdom",
-    "temp_c": "9",
-    "feels_c": "8",
-    "condition": "Overcast ",
-    "humidity": "81",
-    "wind_kph": "9"
+    "temp_c": "7",
+    "feels_c": "5",
+    "condition": "Sunny",
+    "humidity": "63",
+    "wind_kph": "13"
   },
   "quote": {
     "ok": true,
-    "quote": "When you are able to employ your will always for constructive purposes, you become the controller of your destiny.",
-    "author": "Paramahansa Yogananda"
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey"
   }
 }
