@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "weather": {
     "ok": true,
-    "city": "Strand",
+    "city": "Spitalfields",
     "country": "United Kingdom",
-    "temp_c": "7",
-    "feels_c": "6",
+    "temp_c": "8",
+    "feels_c": "7",
     "condition": "Sunny",
-    "humidity": "59",
-    "wind_kph": "5"
+    "humidity": "70",
+    "wind_kph": "7"
   },
   "quote": {
     "ok": true,
-    "quote": "Every experience is a lesson. Every loss is a gain.",
-    "author": "Sathya Sai Baba"
+    "quote": "Men are disturbed not by things, but by the view which they take of them.",
+    "author": "Epictetus"
   }
 }
