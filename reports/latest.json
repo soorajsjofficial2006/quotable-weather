@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "weather": {
     "ok": true,
-    "city": "Holborn",
+    "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "10",
-    "feels_c": "8",
-    "condition": "Cloudy",
-    "humidity": "100",
-    "wind_kph": "12"
+    "temp_c": "5",
+    "feels_c": "3",
+    "condition": "Cloudy ",
+    "humidity": "74",
+    "wind_kph": "4"
   },
   "quote": {
     "ok": true,
-    "quote": "You do not read a book for the book's sake, but for your own.",
-    "author": "Earl Nightingale"
+    "quote": "Remember we're all in this alone.",
+    "author": "Lily Tomlin"
   }
 }
