@@ -1,20 +1,20 @@
 ================================
        PULSE DAILY SUMMARY      
 ================================
-Generated: 2026-11-17 17:20 UTC
+Generated: 2026-11-18 16:55 UTC
 
 ── WEATHER ─────────────────────
-Location : Mayfair, United Kingdom
-Condition: Clear
-Temp     : 13°C (feels 11°C)
-Humidity : 67%
-Wind     : 18 km/h
+Location : Walworth, United Kingdom
+Condition: Moderate or heavy rain shower
+Temp     : 12°C (feels 10°C)
+Humidity : 72%
+Wind     : 15 km/h
 
 ── QUOTE ───────────────────────
-"Discontent is the first necessity of progress."
-  — Thomas Edison
+"The only way to do great work is to love what you do."
+  — Steve Jobs
 
 ── STATUS ──────────────────────
 weather_api : OK
-quote_api   : OK
+quote_api   : OK (fallback)
 ================================

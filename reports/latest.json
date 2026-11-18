@@ -1,18 +1,20 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "weather": {
     "ok": true,
-    "city": "Mayfair",
+    "city": "Walworth",
     "country": "United Kingdom",
-    "temp_c": "13",
-    "feels_c": "11",
-    "condition": "Clear",
-    "humidity": "67",
-    "wind_kph": "18"
+    "temp_c": "12",
+    "feels_c": "10",
+    "condition": "Moderate or heavy rain shower",
+    "humidity": "72",
+    "wind_kph": "15"
   },
   "quote": {
     "ok": true,
-    "quote": "Discontent is the first necessity of progress.",
-    "author": "Thomas Edison"
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "fallback": true,
+    "error": "<urlopen error timed out>"
   }
 }
