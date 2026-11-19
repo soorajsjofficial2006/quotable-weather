@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "weather": {
     "ok": true,
-    "city": "Walworth",
+    "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "12",
+    "temp_c": "10",
     "feels_c": "10",
-    "condition": "Moderate or heavy rain shower",
-    "humidity": "72",
-    "wind_kph": "15"
+    "condition": "Partly cloudy",
+    "humidity": "87",
+    "wind_kph": "4"
   },
   "quote": {
     "ok": true,
