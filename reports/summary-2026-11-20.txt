@@ -1,0 +1,20 @@
+================================
+       PULSE DAILY SUMMARY      
+================================
+Generated: 2026-11-20 16:40 UTC
+
+── WEATHER ─────────────────────
+Location : Strand, United Kingdom
+Condition: Patchy rain nearby
+Temp     : 8°C (feels 6°C)
+Humidity : 81%
+Wind     : 9 km/h
+
+── QUOTE ───────────────────────
+"The only way to do great work is to love what you do."
+  — Steve Jobs
+
+── STATUS ──────────────────────
+weather_api : OK
+quote_api   : OK (fallback)
+================================

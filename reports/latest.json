@@ -1,20 +1,20 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "weather": {
     "ok": true,
     "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "10",
-    "feels_c": "10",
-    "condition": "Partly cloudy",
-    "humidity": "87",
-    "wind_kph": "4"
+    "temp_c": "8",
+    "feels_c": "6",
+    "condition": "Patchy rain nearby",
+    "humidity": "81",
+    "wind_kph": "9"
   },
   "quote": {
     "ok": true,
     "quote": "The only way to do great work is to love what you do.",
     "author": "Steve Jobs",
     "fallback": true,
-    "error": "<urlopen error timed out>"
+    "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
   }
 }
