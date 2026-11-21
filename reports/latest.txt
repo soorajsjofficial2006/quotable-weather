@@ -1,20 +1,20 @@
 ================================
        PULSE DAILY SUMMARY      
 ================================
-Generated: 2026-11-20 16:40 UTC
+Generated: 2026-11-21 15:53 UTC
 
 ── WEATHER ─────────────────────
-Location : Strand, United Kingdom
-Condition: Patchy rain nearby
-Temp     : 8°C (feels 6°C)
-Humidity : 81%
-Wind     : 9 km/h
+Location : Nine Elms, United Kingdom
+Condition: Sunny
+Temp     : 8°C (feels 7°C)
+Humidity : 80%
+Wind     : 8 km/h
 
 ── QUOTE ───────────────────────
-"The only way to do great work is to love what you do."
-  — Steve Jobs
+"He who cannot be a good follower cannot be a good leader."
+  — Aristotle
 
 ── STATUS ──────────────────────
 weather_api : OK
-quote_api   : OK (fallback)
+quote_api   : OK
 ================================

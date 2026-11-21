@@ -1,20 +1,18 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "weather": {
     "ok": true,
-    "city": "Strand",
+    "city": "Nine Elms",
     "country": "United Kingdom",
     "temp_c": "8",
-    "feels_c": "6",
-    "condition": "Patchy rain nearby",
-    "humidity": "81",
-    "wind_kph": "9"
+    "feels_c": "7",
+    "condition": "Sunny",
+    "humidity": "80",
+    "wind_kph": "8"
   },
   "quote": {
     "ok": true,
-    "quote": "The only way to do great work is to love what you do.",
-    "author": "Steve Jobs",
-    "fallback": true,
-    "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    "quote": "He who cannot be a good follower cannot be a good leader.",
+    "author": "Aristotle"
   }
 }
