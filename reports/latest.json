@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "weather": {
     "ok": true,
-    "city": "Nine Elms",
+    "city": "Lambeth",
     "country": "United Kingdom",
     "temp_c": "8",
-    "feels_c": "7",
-    "condition": "Sunny",
-    "humidity": "80",
-    "wind_kph": "8"
+    "feels_c": "5",
+    "condition": "Overcast ",
+    "humidity": "65",
+    "wind_kph": "17"
   },
   "quote": {
     "ok": true,
-    "quote": "He who cannot be a good follower cannot be a good leader.",
-    "author": "Aristotle"
+    "quote": "Learning is a weightless treasure you can always carry easily.",
+    "author": "Chinese Proverb"
   }
 }
