@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "weather": {
     "ok": true,
-    "city": "Lambeth",
+    "city": "Soho",
     "country": "United Kingdom",
-    "temp_c": "8",
-    "feels_c": "5",
-    "condition": "Overcast ",
-    "humidity": "65",
-    "wind_kph": "17"
+    "temp_c": "3",
+    "feels_c": "1",
+    "condition": "Clear ",
+    "humidity": "73",
+    "wind_kph": "8"
   },
   "quote": {
     "ok": true,
-    "quote": "Learning is a weightless treasure you can always carry easily.",
-    "author": "Chinese Proverb"
+    "quote": "Whatever satisfies the soul is truth.",
+    "author": "Walt Whitman"
   }
 }
