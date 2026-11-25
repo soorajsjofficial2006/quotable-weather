@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "weather": {
     "ok": true,
-    "city": "London",
+    "city": "Strand",
     "country": "United Kingdom",
-    "temp_c": "4",
+    "temp_c": "5",
     "feels_c": "2",
     "condition": "Cloudy ",
-    "humidity": "78",
-    "wind_kph": "12"
+    "humidity": "75",
+    "wind_kph": "14"
   },
   "quote": {
     "ok": true,
-    "quote": "Opportunity comes when you continually push forward.",
-    "author": "Sonia Ricotti"
+    "quote": "A poet should be so crafty with words that he is envied even for his pains.",
+    "author": "Criss Jami"
   }
 }
