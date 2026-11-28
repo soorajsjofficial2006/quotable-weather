@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "weather": {
     "ok": true,
-    "city": "Strand",
+    "city": "Spitalfields",
     "country": "United Kingdom",
-    "temp_c": "5",
-    "feels_c": "2",
-    "condition": "Patchy rain nearby",
-    "humidity": "80",
-    "wind_kph": "13"
+    "temp_c": "8",
+    "feels_c": "5",
+    "condition": "Light rain",
+    "humidity": "91",
+    "wind_kph": "23"
   },
   "quote": {
     "ok": true,
-    "quote": "Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life.",
-    "author": "Eckhart Tolle"
+    "quote": "However difficult life may seem, there is always something you can do and succeed at.",
+    "author": "Stephen Hawking"
   }
 }
